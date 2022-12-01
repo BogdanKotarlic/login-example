@@ -1,0 +1,63 @@
+body {
+    background: #eeeeee;
+}
+
+
+
+/* .gradient-custom {
+    /* background: #6a11cb;
+    background: -webkit-linear-gradient(to right, rgba(106, 17, 203, 1), rgba(37, 117, 252, 1));
+    background: linear-gradient(to right, rgba(106, 17, 203, 1), rgba(37, 117, 252, 1)) 
+}
+ */
+
+.fa-facebook-f:hover {
+    color: #3b5998;
+}
+
+.fa-twitter:hover {
+    color: #00acee;
+}
+
+.fa-google:hover {
+    color: #db4a39;
+}
+
+.bg-color {
+    background: #040726;
+}
+
+.log-in-text {
+    color: #e88f2e;
+    text-decoration: none;
+}
+
+.log-in-text:hover {
+    color: white;
+}
+
+.btn-outline-light {
+    border-color: #292d55;
+    border-width: 2px;
+}
+
+.btn-outline-light:hover {
+    color: white;
+    background: #292d55;
+    border-color: #292d55;
+}
+
+.btn-custom {
+    padding: 12px;
+    width: 100%;
+    font-size: 16px;
+}
+
+.icon {
+    margin-right: 10px;
+    width: 6%;
+}
+
+.icon-opentext{
+    width: 25%;
+}
