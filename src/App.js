@@ -12,14 +12,14 @@ const App = () => {
                             <div className="card-body p-5 text-center">
 
                                 <div className="mb-md-5">
-                                    <img src='/img/logo.png' style={{width: '60%'}} />
+                                    <img src='/logo.png' style={{width: '60%'}} />
                                     <h3 className="fw-bold mb-2 text-white">Welcome to Spinnii</h3>
                                     <p className="text-white-50 mb-5">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
 
                                     <div className="row">
                                         <div className='col-md-12'>
                                             <a className="btn btn-lg btn-block btn-outline-light rounded-pill btn-custom">
-                                                <img src='/img/spinnii.png' className='icon' />
+                                                <img src='/spinnii.png' className='icon' />
                                                 Continue with Spinnii
                                             </a>
                                         </div>
@@ -28,7 +28,7 @@ const App = () => {
                                     <div className="row ">
                                         <div className='col-md-12 mt-3'>
                                             <a className="btn btn-lg btn-block btn-outline-light rounded-pill btn-custom">
-                                                <img src='/img/apple.png' className='icon' />
+                                                <img src='/apple.png' className='icon' />
                                                 Continue with Apple
                                             </a>
                                         </div>
@@ -37,7 +37,7 @@ const App = () => {
                                     <div className="row">
                                         <div className='col-md-12 mt-3'>
                                             <a className="btn btn-lg btn-block btn-outline-light rounded-pill btn-custom">
-                                                <img src='/img/google.png' className='icon' />
+                                                <img src='/google.png' className='icon' />
                                                 Continue with Google
                                             </a>
                                         </div>
@@ -46,7 +46,7 @@ const App = () => {
                                     <div className="row ">
                                         <div className='col-md-12 mt-3'>
                                             <a className="btn btn-lg btn-block btn-outline-light rounded-pill btn-custom">
-                                                <img src='/img/facebook.png' className='icon' />
+                                                <img src='/facebook.png' className='icon' />
                                                 Continue with Facebook
                                             </a>
                                         </div>
@@ -55,7 +55,7 @@ const App = () => {
                                     <div className="row">
                                         <div className='col-md-12 mt-3 mb-0'>
                                             <a className="btn btn-lg btn-block btn-outline-light rounded-pill btn-custom">
-                                                <img src='/img/opentext.png' className='icon' />
+                                                <img src='/opentext.png' className='icon' />
                                                 Continue with OpenText
                                             </a>
                                         </div>
